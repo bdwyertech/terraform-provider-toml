@@ -1,5 +1,5 @@
 # Terraform Provider TOML
-The TOML Terraform provider allows you to read TOML files using data sources in Terraform.
+The TOML Terraform provider allows you to work with TOML within Terraform.
 
 ## Documentation
 Official documentation on how to use this provider can be found on the [Terraform Registry](https://registry.terraform.io/providers/bdwyertech/toml/latest/docs).
