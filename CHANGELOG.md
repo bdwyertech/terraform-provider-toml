@@ -1,3 +1,11 @@
+
+## 0.4.0 (February 4, 2026)
+
+NOTES:
+  * Forked to `github.com/bdwyertech` namespace
+  * Updated to use Terraform Plugin SDK v6
+  * Updated dependencies
+
 ## 0.3.1 (July 15, 2024)
 
 NOTES:
